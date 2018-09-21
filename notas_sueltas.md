@@ -1,5 +1,0 @@
-Como varias compañias de Internet, incluyendo _SnapChat_, _Twitter_, _Spotify_ no tiene muchas ganancias. Aun asi sus ingresos no son pocos, tuvo $ \$4.9 $ mil millnes en 2017, de acuerdo a sus declaraciones, con un porcentaje de crecimiento de $ 46\% $ comparado con el año anterior. Todavía la compañia tiene una perdida de $ \$ 1.5 $ mil millones el año pasado.
-
-Algunos también han tenido problemas con la forma que _Spotify_ licencia su música. Una demanda de $ \$1.6 $ mil millos de _Wixen Music Publishing_, por ejemplo, declarando que la compañia estaba usando miles de sus canciones ilegalmente.
-
-_Spotify_ también ha incursionado en enviar artistas en giras basado en datos y algoritmos, abriendo una potencial fuente de ingreso. Organizando eventos con la información recabada por los usuarios, localización, artista, fechas; _Spotify_ podría ser la forma de mover la música. El año pasado, se creó _Rap Caviar_, un popular _playlist_ de _hip hop_ con mas de $8.7$ millones de seguidores. La _playlist_ se ha convertido en la forma en que esta generación descubre nueva música.
